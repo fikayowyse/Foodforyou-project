@@ -1,1 +1,1 @@
-# CW2Backend
+# foodforyou-project-backend
